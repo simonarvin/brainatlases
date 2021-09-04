@@ -158,6 +158,7 @@ l3725.jpg
 l3925.jpg
 sagittal_ap.sc
 sagittal_dv.sc
+abbreviations.txt
 
 mouse_pacino
 b-010a370.jpg
